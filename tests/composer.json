@@ -1,0 +1,19 @@
+{
+    "require": {
+        "thesis/clock": "0.1.0",
+        "thesis/endian": "^0.2@dev"
+    },
+    "config": {
+        "lock": false,
+        "platform": {
+            "php": "8.3.0"
+        },
+        "vendor-dir": "../var/test-vendor"
+    },
+    "provides": {
+        "thesis/provides": "^1.0.2"
+    },
+    "replaces": {
+        "thesis/replaces": "^2.9.8"
+    }
+}
