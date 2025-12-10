@@ -7,6 +7,7 @@ namespace Thesis\Package;
 use Composer\InstalledVersions;
 
 /**
+ * @api
  * @param non-empty-string $package
  * @return non-empty-string
  */
